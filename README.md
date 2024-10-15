@@ -5,13 +5,13 @@
 Here are screenshots showcasing the Kanban board's different states based on selected grouping options:
 
 ### **1. Default Display**
-![Kanban Default Display](https://imgur.com/oIbVV0E)
+![Kanban Default Display]()
 
 ### **2. Grouped by User**
-![Grouped by User](https://imgur.com/nhbR0D3)
+![Grouped by User]()
 
 ### **3. Grouped by Priority**
-![Grouped by Priority](https://imgur.com/OC5AoWl)
+![Grouped by Priority]()
 
 ---
 
