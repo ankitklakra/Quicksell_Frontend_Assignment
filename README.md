@@ -5,13 +5,16 @@
 Here are screenshots showcasing the Kanban board's different states based on selected grouping options:
 
 ### **1. Default Display**
-![Kanban Default Display](https://drive.google.com/file/d/1wThUgwnTVe3Jp44-R_t8agvt3ipsYEQp/view?usp=drive_link)
+![Kanban Default Display](https://github.com/user-attachments/assets/88ef2827-4a7b-402b-9d65-bb19175380c0)
+
 
 ### **2. Grouped by User**
-![Grouped by User](https://drive.google.com/file/d/1z9v1EXL6gAjDH0jFWLnoIYYmSVgO9zZJ/view?usp=drive_link)
+![Grouped by User](https://github.com/user-attachments/assets/57f81c42-d0f9-44ca-9f32-8658af8ffc5c)
+
 
 ### **3. Grouped by Priority**
-![Grouped by Priority](https://drive.google.com/file/d/1YbhUDQGHVKemJSJmG27CjNbj9BDNXFPm/view?usp=drive_link)
+![Grouped by Priority](https://github.com/user-attachments/assets/063e8e46-8117-4605-9d55-fd54ee8466e5)
+
 
 ---
 
@@ -46,8 +49,6 @@ Tickets will have one of the following priority levels (received from the API):
 | 2              | Medium       |
 | 1              | Low          |
 | 0              | No priority  |
-
-Ensure that the Kanban board reflects the priority visually to make it intuitive for users.
 
 ---
 
